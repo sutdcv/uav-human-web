@@ -31,7 +31,7 @@ const FeedbackModal = (props) => {
                 <div>
                     <b className="text-success">You have successfully requested UAV-Human dataset, please use the link below to download the dataset!</b>
                     {/* <a href="" className="button btn btn-outline-primary mt-3 mx-1" target="_blank" rel="noopener noreferrer">Google Drive Link</a> */}
-                    <a href={oneDriveLink} className="button btn btn-outline-primary mt-3 mx-1" target="_blank" rel="noopener noreferrer">MS OneDrive Link</a>
+                    <a href={oneDriveLink} className="button btn btn-outline-primary mt-3 mx-1" target="_blank" rel="noopener noreferrer">Google Drive Link</a>
                 </div>
                 : 
                 <div>
