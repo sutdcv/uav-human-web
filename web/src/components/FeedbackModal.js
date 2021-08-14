@@ -5,7 +5,7 @@ import Modal from 'react-bootstrap/Modal'
 
 const FeedbackModal = (props) => {
 
-    const oneDriveLink = "https://sutdapac-my.sharepoint.com/:f:/g/personal/tianjiao_li_mymail_sutd_edu_sg/EtLLkN49_C9Bq14ur0ZLpHkB-bi9Tc_LlIQBv0Ds4JE49A?e=IqX67X"
+    const oneDriveLink = "https://drive.google.com/drive/folders/1QeYXeM_pbWBSSmpRr_rKHurMpI2TxAKs?usp=sharing"
 
     return (
         <Modal
